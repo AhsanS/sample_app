@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>app/controllers/pages_controller.rb</string>
+	<string>Gemfile</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -21,6 +21,20 @@
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
+		<key>Gemfile</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>14</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>app/controllers/application_controller.rb</key>
 		<dict>
 			<key>caret</key>
@@ -94,11 +108,7 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>app/controllers/pages_controller.rb</string>
-		<string>app/views/pages/about.html.erb</string>
-		<string>spec/controllers/pages_controller_spec.rb</string>
-		<string>app/controllers/application_controller.rb</string>
-		<string>spec/spec_helper.rb</string>
+		<string>Gemfile</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
