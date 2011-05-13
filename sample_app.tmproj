@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>Gemfile</string>
+	<string>spec/controllers/pages_controller_spec.rb</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -109,10 +109,13 @@
 	<key>openDocuments</key>
 	<array>
 		<string>Gemfile</string>
+		<string>app/controllers/pages_controller.rb</string>
+		<string>spec/controllers/pages_controller_spec.rb</string>
+		<string>app/controllers/application_controller.rb</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1083, 73}, {578, 928}}</string>
+	<string>{{1085, 209}, {575, 764}}</string>
 </dict>
 </plist>
